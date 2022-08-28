@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ghayth.bengara.contact@gmail.com**
 
-- ⚡ Fun fact **I'm a fun of Football**
+- ⚡ **I'm a fun of Football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
