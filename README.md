@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [tiebreak tennis academy](https://github.com/Ghayth-BEN-GARA/Tiebreak-Tennis-Academy)
 
-- 💬 Ask me about **Web Development, Laravel And Android**
+- 💬 Ask me about **Web And Mobile Development**
 
 - 📫 How to reach me **ghayth.bengara.contact@gmail.com**
 
