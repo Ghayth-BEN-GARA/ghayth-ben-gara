@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **ghayth.bengara.contact@gmail.com**
 
+- ⚡ Fun fact **I'm a fun of Football**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ghayth-ben-gara-26606422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghayth-ben-gara-26606422a/" height="30" width="40" /></a>
@@ -25,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghayth-ben-gara&show_icons=true&locale=en" alt="ghayth-ben-gara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghayth-ben-gara&" alt="ghayth-ben-gara" /></p>
+
