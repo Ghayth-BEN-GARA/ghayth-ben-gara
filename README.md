@@ -41,20 +41,14 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/ghayth-ben-gara-26606422a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="ghayth.bengara.contact@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href = "https://github.com/Ghayth-BEN-GARA" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="Ghayth-BEN-GARA" height="30" width="40" /></a>
-  <a href = "https://join.skype.com/invite/LV3usfkQykjP" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/skype.svg" alt="Ghayth-BEN-GARA" height="30" width="40" /></a>
-  <a href="https://fb.com/100075317294165" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/ghayth.bengara/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ghayth-ben-gara-26606422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghayth-ben-gara-26606422a/" height="30" width="40" /></a>
+<a href="https://fb.com/100075317294165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100075317294165" height="30" width="40" /></a>
+<a href="https://instagram.com/ghayth.bengara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghayth.bengara/" height="30" width="40" /></a>
+<a href = "https://github.com/Ghayth-BEN-GARA" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="Ghayth-BEN-GARA" height="30" width="40" /></a>
+<a href = "https://join.skype.com/invite/LV3usfkQykjP" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/skype.svg" alt="Ghayth-BEN-GARA" height="30" width="40" /></a>
+</p>
 </div>
 
 ###
