@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **Tarqeem company as Laravel Developer**<br>- 💬 Ask me about **Web And Mobile Development**<br>- 📫 How to reach me **ghayth.bengara.contact@gmail.com**<br>- ⚡In my free time, I learn new technologies</p>
+<p align="left">🔭 I’m currently working on **Tarqeem company as Laravel Developer**<br> 💬 Ask me about **Web And Mobile Development**<br> 📫 How to reach me **ghayth.bengara.contact@gmail.com**<br>⚡In my free time, I learn new technologies</p>
 
 ###
 
@@ -29,19 +29,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
-<div align="left">
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/ghayth-ben-gara-26606422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghayth-ben-gara-26606422a/" height="30" width="40" /></a>
 <a href="https://fb.com/100075317294165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100075317294165" height="30" width="40" /></a>
@@ -49,16 +56,19 @@
 <a href = "https://github.com/Ghayth-BEN-GARA" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="Ghayth-BEN-GARA" height="30" width="40" /></a>
 <a href = "https://join.skype.com/invite/LV3usfkQykjP" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/skype.svg" alt="Ghayth-BEN-GARA" height="30" width="40" /></a>
 </p>
-</div>
-
 ###
 
 <br clear="both">
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ghayth-BEN-GARA.Ghayth-BEN-GARA&"  />
+</div>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghayth-ben-gara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ghayth-ben-gara&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghayth-ben-gara&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghayth-BEN-GARA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghayth-BEN-GARA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
