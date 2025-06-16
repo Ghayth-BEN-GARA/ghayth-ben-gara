@@ -56,7 +56,6 @@
 <a href = "https://github.com/Ghayth-BEN-GARA" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="Ghayth-BEN-GARA" height="30" width="40" /></a>
 <a href = "https://join.skype.com/invite/LV3usfkQykjP" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/skype.svg" alt="Ghayth-BEN-GARA" height="30" width="40" /></a>
 </p>
-###
 
 <br clear="both">
 
